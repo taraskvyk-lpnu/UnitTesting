@@ -1,0 +1,12 @@
+D:\Тарас\Udemy\Unit Testing C#\OwnStartProject\Sparky\Sparky\bin\Debug\net8.0\Sparky.deps.json
+D:\Тарас\Udemy\Unit Testing C#\OwnStartProject\Sparky\Sparky\bin\Debug\net8.0\Sparky.dll
+D:\Тарас\Udemy\Unit Testing C#\OwnStartProject\Sparky\Sparky\bin\Debug\net8.0\Sparky.pdb
+D:\Тарас\Udemy\Unit Testing C#\OwnStartProject\Sparky\Sparky\obj\Debug\net8.0\Sparky.GeneratedMSBuildEditorConfig.editorconfig
+D:\Тарас\Udemy\Unit Testing C#\OwnStartProject\Sparky\Sparky\obj\Debug\net8.0\Sparky.AssemblyInfoInputs.cache
+D:\Тарас\Udemy\Unit Testing C#\OwnStartProject\Sparky\Sparky\obj\Debug\net8.0\Sparky.AssemblyInfo.cs
+D:\Тарас\Udemy\Unit Testing C#\OwnStartProject\Sparky\Sparky\obj\Debug\net8.0\Sparky.csproj.CoreCompileInputs.cache
+D:\Тарас\Udemy\Unit Testing C#\OwnStartProject\Sparky\Sparky\obj\Debug\net8.0\Sparky.dll
+D:\Тарас\Udemy\Unit Testing C#\OwnStartProject\Sparky\Sparky\obj\Debug\net8.0\refint\Sparky.dll
+D:\Тарас\Udemy\Unit Testing C#\OwnStartProject\Sparky\Sparky\obj\Debug\net8.0\Sparky.pdb
+D:\Тарас\Udemy\Unit Testing C#\OwnStartProject\Sparky\Sparky\obj\Debug\net8.0\ref\Sparky.dll
+D:\Тарас\Udemy\Unit Testing C#\OwnStartProject\Sparky\Sparky\obj\Debug\net8.0\Sparky.csproj.AssemblyReference.cache
